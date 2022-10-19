@@ -1,4 +1,5 @@
 FlickrSearch app
+
 •	Grid-based photo browsing app using the Flickr API.
 
 •	Used: MVC, UIKit, Flickr API
