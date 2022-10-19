@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3BD5E7DF-66E2-4775-AFEC-1E289A31549B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F94A177C-85AC-47F4-8C3F-EAA303672900"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlickrSearch/FlickrPhotosViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "textFieldShouldReturn(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F94A177C-85AC-47F4-8C3F-EAA303672900 - 8307cf6a93d5e3e"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Result&lt;FlickrSearch.FlickrSearchResults, Swift.Error&gt;) -&gt; () in FlickrSearch.FlickrPhotosViewController.textFieldShouldReturn(__C.UITextField) -&gt; Swift.Bool"
+                  moduleName = "FlickrSearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulzhan/Downloads/FlickrSearch/final/FlickrSearch/FlickrPhotosViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "361">
+               </Location>
+               <Location
+                  uuid = "F94A177C-85AC-47F4-8C3F-EAA303672900 - 8307cf6a93d5e3e"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Result&lt;FlickrSearch.FlickrSearchResults, Swift.Error&gt;) -&gt; () in FlickrSearch.FlickrPhotosViewController.textFieldShouldReturn(__C.UITextField) -&gt; Swift.Bool"
+                  moduleName = "FlickrSearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulzhan/Downloads/FlickrSearch/final/FlickrSearch/FlickrPhotosViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "425">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
